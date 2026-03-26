@@ -1,0 +1,1 @@
+A console-based banking application built in Java. The user creates an account with an opening balance and can deposit money, withdraw money and check their balance. Handles errors like insufficient funds and invalid input amounts. Developed as part of the Java Development Internship at Codveda Technology.
